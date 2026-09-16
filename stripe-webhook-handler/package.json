@@ -1,0 +1,32 @@
+{
+  "name": "stripe-webhook-handler",
+  "version": "1.0.0",
+  "description": "Production-ready Stripe webhook handler with signature verification and database integration",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "test": "jest",
+    "migrate": "node src/database/migrate.js"
+  },
+  "keywords": [
+    "stripe",
+    "webhook",
+    "payment",
+    "api"
+  ],
+  "author": "CodeFlow Integrations",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "stripe": "^14.0.0",
+    "pg": "^8.11.3",
+    "dotenv": "^16.3.1",
+    "winston": "^3.11.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^6.3.3",
+    "nodemon": "^3.0.1"
+  }
+}
