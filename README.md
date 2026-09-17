@@ -54,11 +54,17 @@ Automated data pipeline for financial API integration and processing using AWS s
 - **DevOps:** Docker, AWS, CI/CD
 - **Data Engineering:** ETL pipelines, Data processing, Automation
 
+## Learning Resources
+
+Want to learn API integration? Check out my comprehensive learning materials:
+
+- **[API Integration Master Guide](https://codetoday.gumroad.com/l/APIMasterGuide)** - Complete guide from zero to production (PDF + EPUB)
+- **[API Integration Master Course](https://codetoday.gumroad.com/l/APIMasterCourse)** - Self-paced course with projects and exercises
+
 ## Contact
 
-- **Upwork:** [Your Upwork Profile Link]
-- **Email:** [Your Email]
-- **GitHub:** [Your GitHub Profile]
+- **Email:** luke@serecloud.com
+- **GitHub:** https://github.com/lserevejv
 
 ## License
 
